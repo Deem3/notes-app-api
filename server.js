@@ -13,7 +13,7 @@ const usersRoutes = require('./routes/users')
 
 app.use(
     cors({
-        origin: "http://localhost:3000",
+        origin: "https://notes-app-s54f.onrender.com",
     })
 )
 
