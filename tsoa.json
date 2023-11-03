@@ -19,13 +19,13 @@
       }
   },
     "outputDirectory": "./spec",
-    "host": "localhost:8000",
+    "host": "notes-api-d2v4.onrender.com",
     "basePath": "/templateApi",
     "specVersion": 3,
-    "schemes": ["http"]
+    "schemes": ["https"]
   },
   "compilerOptions": {
-    "baseUrl": "."
+    "baseUrl": "https://notes-api-d2v4.onrender.com"
   }
 }
 
